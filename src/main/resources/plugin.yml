@@ -1,0 +1,7 @@
+name: CombatLogger
+version: '${version}'
+main: me.darkeyedragon.combatlogger.CombatLogger
+api-version: 1.19
+prefix: CL
+authors: [ DarkEyeDragon ]
+description: Prevent players from using commands and disconnecting while combat logged

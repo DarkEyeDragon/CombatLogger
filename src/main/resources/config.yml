@@ -1,0 +1,9 @@
+combat:
+  #Duration of being combat tagged in seconds.
+  duration: 15
+  #The type of damage that will
+  damage-types:
+    - player
+    #- mob
+    #- fall
+
